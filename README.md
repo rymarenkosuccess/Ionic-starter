@@ -1,0 +1,2 @@
+# Ionic-starter
+Coffeescript
